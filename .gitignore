@@ -1,0 +1,11 @@
+__pycache__/
+*.log
+*.tmp
+*-bak
+*.bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+fp-info-cache
+*.fcstd1
+*.jlink
+.DS_Store
